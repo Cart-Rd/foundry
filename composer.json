@@ -1,0 +1,19 @@
+{
+  "name": "cart-rd/foundry",
+  "type": "package",
+  "description": "Vesper PHP, build fast.",
+  "keywords": ["foundry", "command line", "cli"],
+  "license": "MIT",
+  
+   "authors": [
+      {
+          "name": "Rik Janssen",
+          "email": "rik@vesperphp.com"
+      }
+  ],
+  
+  "require": {
+
+  }
+  
+}
