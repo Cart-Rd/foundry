@@ -10,7 +10,7 @@ Welcome to the repo of Foundry. Foundry is the command line tool for Vesper PHP.
 
 ## Command line
 
-You can build your `models` and `controllers` quickly via Foundry. Just type `php foundry mcv:build name//m/v/c/t` and you are good to go! Files will be created instantly.
+You can build your `models` and `controllers` quickly via Foundry. Just type something along the lines of `php foundry mcv:build name/m/v/c/t` and you are good to go! Files will be created instantly.
 
 ## Swappable
 
