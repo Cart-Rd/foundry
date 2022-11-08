@@ -11,7 +11,7 @@ class FoundryTablier{
      * and create all the tables.
      */
 
-    public function make(){
+    public function build(){
 
         /**
          * The CLI helper to build
@@ -114,7 +114,7 @@ class FoundryTablier{
     public function refresh(){
 
         $this->drop();
-        $this->make();
+        $this->build();
         $this->fill();
 
         echo "\n\e[32mTriple done.";
